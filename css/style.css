@@ -1,0 +1,50 @@
+
+.hero section h3 { color: rgb(0, 195, 255);}
+
+body header nav ul li a {
+    text-decoration:none; color: whitesmoke;
+}
+.bienvenidos div img {width: 600; height: 400;}
+header h1 {background-color: whitesmoke; font-size: 30px; font-style: italic; font-weight: 200;}
+
+.hero div h3 {color:darkred;}
+
+.hero h2 {color: whitesmoke;}
+
+.hero div h4 {color: whitesmoke;}
+
+.proce {color: black;}
+
+.grafica {color: black;}
+
+footer main section a h3 {text-decoration: none; color: whitesmoke; font-size: 700 px; font-style: italic; font-weight: 700;}
+
+.flex-container {margin-bottom: 50px;}
+
+body {height: 800px;
+    background-image: url(../img/logo.jfif);
+    background-size: cover;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;}
+
+h1 {color: whitesmoke;}
+
+.bienvenidos {color: white;}
+
+footer h2 {color: whitesmoke;}
+
+.armas {color: whitesmoke;}
+
+.guns {color: whitesmoke;}
+
+.hero .proce {color: black;}
+
+.hero .grafica {color: black;}
+
+footer main section h3 {color: whitesmoke;}
+
+footer main section a {text-decoration: none;}
+
+footer main section h3 li a {color: whitesmoke;text-decoration: none;}
