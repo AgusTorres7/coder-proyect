@@ -15,10 +15,6 @@ header h1 {font-size: 40px; font-style: italic ; font-weight: 1500; }
 
 footer main section a h3 {text-decoration: none; color: whitesmoke; font-size: 700 px; font-style: italic; font-weight: 700;}
 
-.flex-container li a {margin-bottom: 50px; color: black;}
-
-.flex-container li {list-style-type: circle;}
-
 body {height: 800px;
     background-image: url(../img/logo.jfif);
     background-size: cover;
@@ -58,3 +54,5 @@ h1 {color: black; background-color: none;}
 body header nav ul li {list-style-type: circle;}
 
 body header nav ul li a {color: black;}
+
+.loge {background-color: whitesmoke;}
