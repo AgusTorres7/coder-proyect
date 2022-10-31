@@ -62,10 +62,11 @@ footer main section a h3 {
 .guns {
   color: whitesmoke; }
 
-  body {height: 800px;
-    background-image: url(../img/logo.jfif);
-    background-size: cover;
-    background-size: 100%;
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-attachment: fixed;}
+body {
+  height: 800px;
+  background-image: url(../img/logo.jfif);
+  background-size: cover;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed; }
