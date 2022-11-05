@@ -39,13 +39,13 @@ footer main section a h3 {
   height: 400; }
 
 .hero div h3 {
-  color: darkred; }
+  color: darkred; font-size: 1000; font-weight: 1000;}
 
 .hero h2 {
   color: whitesmoke; }
 
 .hero div h4 {
-  color: whitesmoke; }
+  color: whitesmoke; font-size: 500; font-weight: 500;}
 
 .bienvenidos {
   color: white; }
@@ -70,6 +70,12 @@ body {
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed; }
+
+main h1 {color: whitesmoke;}
+
+main section div h3 {font-size: 1000; font-weight: 1000;}
+
+body main section div h4 {font-size: 500; font-weight: 500;}
 
   @import url(https://fonts.googleapis.com/css?family=Noto+Sans);
 
